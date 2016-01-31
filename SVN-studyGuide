@@ -91,6 +91,9 @@ according to wikipedia subversion was created in order to have an open source ve
 A day in the life of svn
 
 What is a typical svn workflow?
+and i quote "http://svnbook.red-bean.com/en/1.6/svn-book.html#svn.tour.cycle"
+update your working copy, make changes, review changes, fix your mistakes, resolve any conflicts i.e. merge others' changes, commit your changes
+
 
 14
 
