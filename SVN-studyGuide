@@ -18,8 +18,7 @@ No need to "add" like in Git. With the "commit" command and your repository set 
 3
 
 Checking out svn
-
-How are check outs performed in svn?
+nee
 checkouts create a local working copy of a remote repository on your computer. This is done with the "co" command, the structure is 'svn checkout "­/pa­th/­to/­rep­osi­tor­y" ' - this will place the copy in your current directory.
 
 4
@@ -34,6 +33,7 @@ checkouts create a local working copy of a remote repository on your computer.
 Adding to the chaos
 
 How do you add files to the repository?
+If its the initial import to an empty repository then the "import" command can be used i.e. -  svn import . https://github.com/drewski13/SVN -m "Initial import" - or the "add" command can be used 
 
 6
 
