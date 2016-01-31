@@ -108,6 +108,12 @@ From what i can find the only real criteria was to have a version control system
 Time machine
 
 How do we view the past of a project with svn?
+several different commands:
+svn diff - line-level details of a particular change
+svn log - full history of changes to supplied file or directory
+svn cat - displays a file of the particular revision number
+svn annotate - same as above but human-readable
+svn list - displays the files in a directory for a given revision
 
 16
 
