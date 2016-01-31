@@ -121,6 +121,7 @@ Great Scott!
 
 If there was a mistake made in the past of a project, how should we go about
 correcting that mistake in svn?
+only move forward, svn does not allow changes to anything committed
 
 17
 
