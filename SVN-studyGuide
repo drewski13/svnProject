@@ -77,6 +77,7 @@ branches should exist until you merge all your changes into the main trunk.
 Taping it together
 
 How do you merge branches?
+once done with your branch you can use the "svn merge" command to merge it into the trunk. while in the branch directory simply write "svn merge URL" 
 
 12
 
