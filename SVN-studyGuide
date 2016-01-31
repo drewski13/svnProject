@@ -130,6 +130,7 @@ The initial upload
 If you have an existing project and want to start tracking it with svn, how
 do you copy your existing files to the repository the first time? Does this
 create the .svn directory in your local folder?
+use the "import" command for existing projects which will add and commit all the files immediately. this does not create the .svn in your local folder you must then create a local working copy.
 
 18
 
