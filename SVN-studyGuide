@@ -40,6 +40,7 @@ If its the initial import to an empty repository then the "import" command can b
 It’s like a tree
 
 How are branches handled in svn?
+branches are created by copying the "trunk" file tree and placing it in a "branch" which still sits in the main project folder next to your trunk. SVN doesnt necessarily think of this as a branch but just a separate directory.
 
 1
 
