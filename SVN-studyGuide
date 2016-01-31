@@ -6,6 +6,7 @@ Study Guide
 Git vs Svn
 
 What are the differences between git and svn?
+The difference between SVN and Git is that Git is a distributed version control system that allows you to keep a real copy of the repository on your individual computer that you push to the main repository online. In SVN you only have a shallow copy of the file you are currently working on. Git also allows you to modify previous commits.
 
 2
 
