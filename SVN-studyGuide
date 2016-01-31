@@ -13,6 +13,7 @@ The difference between SVN and Git is that Git is a distributed version control 
 Commiting to svn
 
 How are commits handled in svn?
+No need to "add" like in Git. With the "commit" command and your repository set up on a server(with a link to the URL supplied), SVN will push your new version to the repository.
 
 3
 
