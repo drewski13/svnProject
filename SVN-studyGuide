@@ -84,6 +84,7 @@ once done with your branch you can use the "svn merge" command to merge it into 
 We see a need!
 
 Why was svn created?
+according to wikipedia subversion was created in order to have an open source version control system on the level of CVS but with extra features.
 
 13
 
