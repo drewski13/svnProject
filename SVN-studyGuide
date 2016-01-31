@@ -137,6 +137,7 @@ use the "import" command for existing projects which will add and commit all the
 Local SVN
 
 Can the client/server setup required with svn exist on the same computer?
+yes, you can create the main repository in its own directory then a working copy somewhere else and it works as advertised all internal to the same computer - this is what we did first in the videos with the millions directory
 
 19
 
