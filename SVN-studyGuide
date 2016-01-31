@@ -63,6 +63,7 @@ your local copy looks like a file tree that is a copy of some subtree of the com
 Status
 
 How do you check the status of the files you are presently working on?
+to check the status of your files you are working on the "svn status" command is used.
 
 10
 
