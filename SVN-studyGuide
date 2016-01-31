@@ -70,6 +70,7 @@ to check the status of your files you are working on the "svn status" command is
 Life of a branch
 
 How long are branches in svn supposed to exist?
+branches should exist until you merge all your changes into the main trunk.
 
 11
 
