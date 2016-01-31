@@ -56,6 +56,7 @@ as many as you deem necessary(or have memory for), in the end you are just copyi
 Working copy
 
 What does your local copy of a repository look like with svn?
+your local copy looks like a file tree that is a copy of some subtree of the complete repository
 
 9
 
